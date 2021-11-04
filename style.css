@@ -1,3 +1,5 @@
+/*Estilos del html */
+/*Estilo del encabezado */
 body{
     background-color: rgb(209, 209, 209);
     margin: 0;
@@ -9,6 +11,7 @@ header{
 header h1 {
     margin: 0;
 }
+/*Estilo de todas las cajas */
 
 div.post{
     background-color: white;
