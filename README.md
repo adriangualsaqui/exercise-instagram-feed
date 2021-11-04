@@ -1,26 +1,43 @@
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
 
-The most basic boilerplate for any 4Geeks Academy student using the [gitpod.io](gitpod.io) coding editor.
+Post Instagram feed
+================
 
-[![How to open html/css preview of my project in gitpod](https://github.com/4GeeksAcademy/Templates-Boilerplates/blob/master/assets/hello-html-intro.png?raw=true)](https://youtu.be/dfbDCMu_p-0)
 
-## What to do next?
+# Como ejecutar el resultado
 
-Create an `index.html` file with the [basic HTML structure](http://content.breatheco.de/lesson/what-is-html-learn-html#page-structure) and see it live by running a web-server using the following command:
+Para poder ejecutar en resultado del el proyecto 
+debemos de instalar los siguientes comandos en la terminal:
 
-```sh
-$ pip3 install flask && python3 server.py
-```
+pip3 install flask && python3 server.py
 
-- You can create as many HTML files as you want
-- You can also create CSS files and import them into your website using a `<link>` tag placed between the `<head></head>` tags, like this:
 
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
+###Desarrollo
+
+Para poder realizar este proyecto, hemos empezado por  analizar el ejemplo que la escuela 4Geeks academy nos facilito.
+
+
+Luego de indentificar lo que requiere el proyecto pasamos a trabajar en el.
+
+###Tecnologias utilizadas
+
+Obligatirio es el uso de HTML Y CSS.
+
+
+
+
+####Inspirado
+
+En este proyecto me e  inspirado en el mundo de la motor 
+excluivamente en el de las motos.
+
+
+-Fotos y frases  importadas de google.com
+
+
+
+
+
+
+###End

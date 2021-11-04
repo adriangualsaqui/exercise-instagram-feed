@@ -1,0 +1,45 @@
+/*Cuerpo del pagina*/
+body {
+  
+  background-color: white;
+}
+/*titulo*/
+h1 {
+    text-align: center;
+  background-color: white;
+}
+/*Estilos de las imagenes y sus contenedores*/
+.header {
+  background-color: white;
+  margin-top: 100px;
+}
+
+.cajapadre {
+  background-color: rgb(150, 146, 145);
+  display: flex;
+  justify-content: center;
+  border: 100px;
+}
+.cajapadre1 {
+  background-color: rgb(150, 146, 145);
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+}
+img {
+  justify-content: center;
+  width: 600px;
+  height: 400px;
+  padding-top: 5px;
+}
+/*ultima foto con diferentes medidas*/
+.header1 {
+  background-color: white;
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+}
+.numero {
+  margin-left: 450px;
+  display: inline-block;
+  color: rgb(189, 189, 189);
+}
